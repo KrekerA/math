@@ -7,6 +7,12 @@ print(f1)
 f2 = factorial.factorial_rec(9)
 print(f2)
 
+f1 = factorial.factorial_norm(5)
+print(f1)
+
+f2 = factorial.factorial_norm(12)
+print(f2)
+
 p1 = perimeter.perimetr_func([1, 3, 4])
 print(p1)
 
